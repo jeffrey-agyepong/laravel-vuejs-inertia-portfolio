@@ -26,7 +26,7 @@
         </p>
       </div>
       <div class="grid lg:grid-cols-4 gap-8">
-        <div class="bg-light-tail-100 dark:bg-dark-navy-500 p-6 rounded-2xl">
+        <div class="bg-light-tail-100 dark:bg-dark-navy-500 p-6 rounded-2xl shadow-lg">
           <div
             class="
               text-accent
@@ -57,11 +57,12 @@
           </div>
           <h4 class="text-xl font-medium mb-2">Web Design</h4>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio
-            perferendis volm quibusdam ullam qui dolore.
+            Web design involves the process of conceptualizing, planning, and creating the visual elements of a website. 
+            It includes determining the layout, color scheme, typography, and graphics that will be used on the site. 
+            
           </p>
         </div>
-        <div class="bg-light-tail-100 dark:bg-dark-navy-500 p-6 rounded-2xl">
+        <div class="bg-light-tail-100 dark:bg-dark-navy-500 p-6 rounded-2xl shadow-lg">
           <div
             class="
               text-accent
@@ -97,11 +98,12 @@
           </div>
           <h4 class="text-xl font-medium mb-2">Web Development</h4>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio
-            perferendis volm quibusdam ullam qui dolore.
+            Web development refers to the process of building a website from scratch. 
+            This includes programming the functionality of the site, such as user authentication, database management, 
+            and content management systems. 
           </p>
         </div>
-        <div class="bg-light-tail-100 dark:bg-dark-navy-500 p-6 rounded-2xl">
+        <div class="bg-light-tail-100 dark:bg-dark-navy-500 p-6 rounded-2xl shadow-lg">
           <div
             class="
               text-accent
@@ -130,13 +132,15 @@
               />
             </svg>
           </div>
-          <h4 class="text-xl font-medium mb-2">Branding</h4>
+          <h4 class="text-xl font-medium mb-2">Content Management Systems:</h4>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio
-            perferendis volm quibusdam ullam qui dolore.
+            A content management system (CMS) is a software application that allows website owners to create, manage, 
+            and modify website content without requiring specialized technical knowledge. 
+             Popular CMS platforms include WordPress, Drupal, and Joomla. 
+
           </p>
         </div>
-        <div class="bg-light-tail-100 dark:bg-dark-navy-500 p-6 rounded-2xl">
+        <div class="bg-light-tail-100 dark:bg-dark-navy-500 p-6 rounded-2xl shadow-lg">
           <div
             class="
               text-accent

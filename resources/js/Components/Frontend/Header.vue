@@ -24,8 +24,8 @@ onMounted(() => {
   <nav
     class="w-full fixed z-20 border-gray-200 px-2 sm:px-4 py-2.5 rounded"
     :class="{
-      'bg-light-primary dark:bg-dark-primary': scrollBg,
-      'bg-white dark:bg-slate-800': !scrollBg,
+      'bg-slate-800 dark:bg-dark-primary': scrollBg,
+      'bg-slate-800 dark:bg-slate-800': !scrollBg,
     }"
   >
     <div
@@ -108,7 +108,7 @@ onMounted(() => {
                 py-2
                 pr-4
                 pl-3
-                text-light-tail-500
+                text-white
                 rounded
                 dark:text-dark-navy-100
                 hover:text-light-tail-100
